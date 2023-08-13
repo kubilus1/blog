@@ -1,4 +1,4 @@
-FROM ubuntu:bionic
+FROM ubuntu:jammy
 
 RUN apt-get update && apt-get install python3-pip git -y
 RUN python3 -m pip install -U pip
