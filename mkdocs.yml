@@ -1,0 +1,36 @@
+site_name: Kubil.us 
+site_description: Information, tips, and other things I've stumbled across 
+site_url: https://blog.kubil.us/
+#site_url: ''
+#site_url: https://www.dailyoccupy.com/
+#site_url: http://localhost:8000/
+docs_dir: blog
+theme:
+    name: rebalance
+    google_adsense: ca-pub-0810613228728448 
+    #name: null
+    #custom_dir: themes/mkdocs-rebalance-theme/rebalance/
+
+plugins:
+  - search
+  - datesort
+  - paginate:
+      max_items: 9
+
+    #- blog:
+    #  articles: 3
+    #  - paginate
+#  - awesome-pages
+#  - tags:
+#      tags_folder: /docs/dailyocc/tags
+
+    #extra:
+social:
+- type: 'github'
+  link: 'https://github.com/kubilus1'
+
+      #markdown_extensions:
+      #  - toc:
+      #permalink: true
+      #baselevel: 2
+      # - admonition
