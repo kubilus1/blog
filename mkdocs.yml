@@ -1,9 +1,8 @@
 site_name: Kubil.us 
-site_description: Information, tips, and other things I've stumbled across 
+site_description: Information, tips, and other things
 site_url: https://tech.kubil.us
 docs_dir: blog
 theme:
-    #name: edupress
     name: rebalance
     google_adsense: ca-pub-0810613228728448 
     facebook_comment_appid: 749526962133490
@@ -14,7 +13,7 @@ plugins:
   - paginate:
       max_items: 9
 
-#social:
-#- type: 'github'
-#  link: 'https://github.com/kubilus1'
-
+extra:
+  social:
+  - type: 'github'
+    link: 'https://github.com/kubilus1'
