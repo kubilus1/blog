@@ -1,11 +1,9 @@
 ---
-title: How to Leak Credentials with Docker,
+title: How to Leak Credentials with Docker, and a few strategies to avoid doing so
 date: 13/08/2023
 tags: [docker, credentials, CICD]
 featured_image: images/pexels-luis-quintero-2339722.jpg
 ---
-
-and a few strategies to avoid doing so.
 
 When building Docker images, it's possible you may need to access privately manage repositories.  This is pretty common in development organizations that leverage artifact management tooling such as Artifactory or Nexus.
 
