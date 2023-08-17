@@ -6,4 +6,4 @@ index: 1
 ---
 # About
 
-This is an about page
+Just a simple tech blog using mkdocs and https://github.com/kubilus1/mkdocs-rebalance-theme
