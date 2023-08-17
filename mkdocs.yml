@@ -5,7 +5,7 @@ docs_dir: blog
 theme:
     name: rebalance
     google_adsense: ca-pub-0810613228728448 
-    facebook_comment_appid: 749526962133490
+    facebook_comment_appid: 7136473109700609
 
 plugins:
   - search
