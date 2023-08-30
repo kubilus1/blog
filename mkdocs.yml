@@ -12,6 +12,7 @@ plugins:
   - datesort
   - paginate:
       max_items: 9
+  - mermaid2
 
 extra:
   social:
